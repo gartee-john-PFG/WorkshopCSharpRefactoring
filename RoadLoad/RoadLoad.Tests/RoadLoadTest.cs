@@ -1,16 +1,18 @@
 ﻿using System;
-
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+using Xunit;
+using ApprovalTests;
+using ApprovalTests.Combinations;
 
 namespace roadload
 {
-    [TestClass]
+
     public class RoadloadTest
     {
-        [TestMethod]
+        [Fact]
         public void foobar()
-        {            
+        {
             //TODO: write some tests
+
         }
 
     }
