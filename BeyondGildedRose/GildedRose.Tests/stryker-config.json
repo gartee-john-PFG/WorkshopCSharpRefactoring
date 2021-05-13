@@ -1,0 +1,29 @@
+{
+    "stryker-config":
+    {
+        "reporters": [
+            "progress",
+            "html"
+        ],
+        "log-level": "error",
+        "log-file":false,
+        "timeout-ms": 10000,
+        "project-file": "GildedRose.csproj",
+        "max-concurrent-test-runners": 6,
+        "threshold-high": 80,
+        "threshold-low": 70,
+        "threshold-break": 60,
+        "mutation-level": "Standard",
+        "mutate": [
+            "GildedRose.cs"
+        ],
+        "excluded-mutations": [
+            "string"
+        ],
+        "ignore-methods": [
+            "*Log*",
+            "ToString",
+            "*HashCode*"
+        ]
+    }
+}

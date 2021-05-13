@@ -1,0 +1,1568 @@
+﻿[hammer,-1,0] => 	Item - {Name: hammer, Quality: -1, SellIn: -2, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,-1,1] => 	Item - {Name: hammer, Quality: -1, SellIn: -2, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,-1,2] => 	Item - {Name: hammer, Quality: 0, SellIn: -2, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,-1,48] => 	Item - {Name: hammer, Quality: 46, SellIn: -2, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,-1,49] => 	Item - {Name: hammer, Quality: 47, SellIn: -2, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,-1,50] => 	Item - {Name: hammer, Quality: 48, SellIn: -2, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,-1,51] => 	Item - {Name: hammer, Quality: 49, SellIn: -2, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,0,0] => 	Item - {Name: hammer, Quality: -1, SellIn: -1, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,0,1] => 	Item - {Name: hammer, Quality: -1, SellIn: -1, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,0,2] => 	Item - {Name: hammer, Quality: 0, SellIn: -1, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,0,48] => 	Item - {Name: hammer, Quality: 46, SellIn: -1, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,0,49] => 	Item - {Name: hammer, Quality: 47, SellIn: -1, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,0,50] => 	Item - {Name: hammer, Quality: 48, SellIn: -1, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,0,51] => 	Item - {Name: hammer, Quality: 49, SellIn: -1, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,1,0] => 	Item - {Name: hammer, Quality: 0, SellIn: 0, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,1,1] => 	Item - {Name: hammer, Quality: 0, SellIn: 0, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,1,2] => 	Item - {Name: hammer, Quality: 1, SellIn: 0, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,1,48] => 	Item - {Name: hammer, Quality: 47, SellIn: 0, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,1,49] => 	Item - {Name: hammer, Quality: 48, SellIn: 0, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,1,50] => 	Item - {Name: hammer, Quality: 49, SellIn: 0, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,1,51] => 	Item - {Name: hammer, Quality: 50, SellIn: 0, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,2,0] => 	Item - {Name: hammer, Quality: 0, SellIn: 1, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,2,1] => 	Item - {Name: hammer, Quality: 0, SellIn: 1, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,2,2] => 	Item - {Name: hammer, Quality: 1, SellIn: 1, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,2,48] => 	Item - {Name: hammer, Quality: 47, SellIn: 1, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,2,49] => 	Item - {Name: hammer, Quality: 48, SellIn: 1, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,2,50] => 	Item - {Name: hammer, Quality: 49, SellIn: 1, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,2,51] => 	Item - {Name: hammer, Quality: 50, SellIn: 1, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,3,0] => 	Item - {Name: hammer, Quality: 0, SellIn: 2, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,3,1] => 	Item - {Name: hammer, Quality: 0, SellIn: 2, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,3,2] => 	Item - {Name: hammer, Quality: 1, SellIn: 2, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,3,48] => 	Item - {Name: hammer, Quality: 47, SellIn: 2, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,3,49] => 	Item - {Name: hammer, Quality: 48, SellIn: 2, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,3,50] => 	Item - {Name: hammer, Quality: 49, SellIn: 2, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,3,51] => 	Item - {Name: hammer, Quality: 50, SellIn: 2, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,4,0] => 	Item - {Name: hammer, Quality: 0, SellIn: 3, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,4,1] => 	Item - {Name: hammer, Quality: 0, SellIn: 3, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,4,2] => 	Item - {Name: hammer, Quality: 1, SellIn: 3, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,4,48] => 	Item - {Name: hammer, Quality: 47, SellIn: 3, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,4,49] => 	Item - {Name: hammer, Quality: 48, SellIn: 3, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,4,50] => 	Item - {Name: hammer, Quality: 49, SellIn: 3, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,4,51] => 	Item - {Name: hammer, Quality: 50, SellIn: 3, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,5,0] => 	Item - {Name: hammer, Quality: 0, SellIn: 4, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,5,1] => 	Item - {Name: hammer, Quality: 0, SellIn: 4, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,5,2] => 	Item - {Name: hammer, Quality: 1, SellIn: 4, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,5,48] => 	Item - {Name: hammer, Quality: 47, SellIn: 4, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,5,49] => 	Item - {Name: hammer, Quality: 48, SellIn: 4, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,5,50] => 	Item - {Name: hammer, Quality: 49, SellIn: 4, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,5,51] => 	Item - {Name: hammer, Quality: 50, SellIn: 4, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,6,0] => 	Item - {Name: hammer, Quality: 0, SellIn: 5, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,6,1] => 	Item - {Name: hammer, Quality: 0, SellIn: 5, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,6,2] => 	Item - {Name: hammer, Quality: 1, SellIn: 5, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,6,48] => 	Item - {Name: hammer, Quality: 47, SellIn: 5, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,6,49] => 	Item - {Name: hammer, Quality: 48, SellIn: 5, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,6,50] => 	Item - {Name: hammer, Quality: 49, SellIn: 5, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,6,51] => 	Item - {Name: hammer, Quality: 50, SellIn: 5, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,7,0] => 	Item - {Name: hammer, Quality: 0, SellIn: 6, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,7,1] => 	Item - {Name: hammer, Quality: 0, SellIn: 6, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,7,2] => 	Item - {Name: hammer, Quality: 1, SellIn: 6, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,7,48] => 	Item - {Name: hammer, Quality: 47, SellIn: 6, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,7,49] => 	Item - {Name: hammer, Quality: 48, SellIn: 6, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,7,50] => 	Item - {Name: hammer, Quality: 49, SellIn: 6, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,7,51] => 	Item - {Name: hammer, Quality: 50, SellIn: 6, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,8,0] => 	Item - {Name: hammer, Quality: 0, SellIn: 7, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,8,1] => 	Item - {Name: hammer, Quality: 0, SellIn: 7, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,8,2] => 	Item - {Name: hammer, Quality: 1, SellIn: 7, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,8,48] => 	Item - {Name: hammer, Quality: 47, SellIn: 7, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,8,49] => 	Item - {Name: hammer, Quality: 48, SellIn: 7, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,8,50] => 	Item - {Name: hammer, Quality: 49, SellIn: 7, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,8,51] => 	Item - {Name: hammer, Quality: 50, SellIn: 7, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,9,0] => 	Item - {Name: hammer, Quality: 0, SellIn: 8, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,9,1] => 	Item - {Name: hammer, Quality: 0, SellIn: 8, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,9,2] => 	Item - {Name: hammer, Quality: 1, SellIn: 8, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,9,48] => 	Item - {Name: hammer, Quality: 47, SellIn: 8, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,9,49] => 	Item - {Name: hammer, Quality: 48, SellIn: 8, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,9,50] => 	Item - {Name: hammer, Quality: 49, SellIn: 8, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,9,51] => 	Item - {Name: hammer, Quality: 50, SellIn: 8, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,10,0] => 	Item - {Name: hammer, Quality: 0, SellIn: 9, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,10,1] => 	Item - {Name: hammer, Quality: 0, SellIn: 9, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,10,2] => 	Item - {Name: hammer, Quality: 1, SellIn: 9, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,10,48] => 	Item - {Name: hammer, Quality: 47, SellIn: 9, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,10,49] => 	Item - {Name: hammer, Quality: 48, SellIn: 9, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,10,50] => 	Item - {Name: hammer, Quality: 49, SellIn: 9, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,10,51] => 	Item - {Name: hammer, Quality: 50, SellIn: 9, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,11,0] => 	Item - {Name: hammer, Quality: 0, SellIn: 10, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,11,1] => 	Item - {Name: hammer, Quality: 0, SellIn: 10, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,11,2] => 	Item - {Name: hammer, Quality: 1, SellIn: 10, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,11,48] => 	Item - {Name: hammer, Quality: 47, SellIn: 10, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,11,49] => 	Item - {Name: hammer, Quality: 48, SellIn: 10, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,11,50] => 	Item - {Name: hammer, Quality: 49, SellIn: 10, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,11,51] => 	Item - {Name: hammer, Quality: 50, SellIn: 10, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,12,0] => 	Item - {Name: hammer, Quality: 0, SellIn: 11, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,12,1] => 	Item - {Name: hammer, Quality: 0, SellIn: 11, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,12,2] => 	Item - {Name: hammer, Quality: 1, SellIn: 11, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,12,48] => 	Item - {Name: hammer, Quality: 47, SellIn: 11, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,12,49] => 	Item - {Name: hammer, Quality: 48, SellIn: 11, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,12,50] => 	Item - {Name: hammer, Quality: 49, SellIn: 11, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[hammer,12,51] => 	Item - {Name: hammer, Quality: 50, SellIn: 11, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,-1,0] => 	Item - {Name: Aged Brie, Quality: 2, SellIn: -2, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,-1,1] => 	Item - {Name: Aged Brie, Quality: 3, SellIn: -2, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,-1,2] => 	Item - {Name: Aged Brie, Quality: 4, SellIn: -2, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,-1,48] => 	Item - {Name: Aged Brie, Quality: 50, SellIn: -2, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,-1,49] => 	Item - {Name: Aged Brie, Quality: 50, SellIn: -2, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,-1,50] => 	Item - {Name: Aged Brie, Quality: 50, SellIn: -2, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,-1,51] => 	Item - {Name: Aged Brie, Quality: 51, SellIn: -2, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,0,0] => 	Item - {Name: Aged Brie, Quality: 2, SellIn: -1, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,0,1] => 	Item - {Name: Aged Brie, Quality: 3, SellIn: -1, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,0,2] => 	Item - {Name: Aged Brie, Quality: 4, SellIn: -1, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,0,48] => 	Item - {Name: Aged Brie, Quality: 50, SellIn: -1, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,0,49] => 	Item - {Name: Aged Brie, Quality: 50, SellIn: -1, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,0,50] => 	Item - {Name: Aged Brie, Quality: 50, SellIn: -1, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,0,51] => 	Item - {Name: Aged Brie, Quality: 51, SellIn: -1, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,1,0] => 	Item - {Name: Aged Brie, Quality: 1, SellIn: 0, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,1,1] => 	Item - {Name: Aged Brie, Quality: 2, SellIn: 0, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,1,2] => 	Item - {Name: Aged Brie, Quality: 3, SellIn: 0, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,1,48] => 	Item - {Name: Aged Brie, Quality: 49, SellIn: 0, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,1,49] => 	Item - {Name: Aged Brie, Quality: 50, SellIn: 0, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,1,50] => 	Item - {Name: Aged Brie, Quality: 50, SellIn: 0, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,1,51] => 	Item - {Name: Aged Brie, Quality: 51, SellIn: 0, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,2,0] => 	Item - {Name: Aged Brie, Quality: 1, SellIn: 1, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,2,1] => 	Item - {Name: Aged Brie, Quality: 2, SellIn: 1, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,2,2] => 	Item - {Name: Aged Brie, Quality: 3, SellIn: 1, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,2,48] => 	Item - {Name: Aged Brie, Quality: 49, SellIn: 1, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,2,49] => 	Item - {Name: Aged Brie, Quality: 50, SellIn: 1, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,2,50] => 	Item - {Name: Aged Brie, Quality: 50, SellIn: 1, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,2,51] => 	Item - {Name: Aged Brie, Quality: 51, SellIn: 1, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,3,0] => 	Item - {Name: Aged Brie, Quality: 1, SellIn: 2, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,3,1] => 	Item - {Name: Aged Brie, Quality: 2, SellIn: 2, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,3,2] => 	Item - {Name: Aged Brie, Quality: 3, SellIn: 2, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,3,48] => 	Item - {Name: Aged Brie, Quality: 49, SellIn: 2, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,3,49] => 	Item - {Name: Aged Brie, Quality: 50, SellIn: 2, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,3,50] => 	Item - {Name: Aged Brie, Quality: 50, SellIn: 2, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,3,51] => 	Item - {Name: Aged Brie, Quality: 51, SellIn: 2, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,4,0] => 	Item - {Name: Aged Brie, Quality: 1, SellIn: 3, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,4,1] => 	Item - {Name: Aged Brie, Quality: 2, SellIn: 3, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,4,2] => 	Item - {Name: Aged Brie, Quality: 3, SellIn: 3, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,4,48] => 	Item - {Name: Aged Brie, Quality: 49, SellIn: 3, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,4,49] => 	Item - {Name: Aged Brie, Quality: 50, SellIn: 3, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,4,50] => 	Item - {Name: Aged Brie, Quality: 50, SellIn: 3, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,4,51] => 	Item - {Name: Aged Brie, Quality: 51, SellIn: 3, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,5,0] => 	Item - {Name: Aged Brie, Quality: 1, SellIn: 4, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,5,1] => 	Item - {Name: Aged Brie, Quality: 2, SellIn: 4, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,5,2] => 	Item - {Name: Aged Brie, Quality: 3, SellIn: 4, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,5,48] => 	Item - {Name: Aged Brie, Quality: 49, SellIn: 4, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,5,49] => 	Item - {Name: Aged Brie, Quality: 50, SellIn: 4, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,5,50] => 	Item - {Name: Aged Brie, Quality: 50, SellIn: 4, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,5,51] => 	Item - {Name: Aged Brie, Quality: 51, SellIn: 4, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,6,0] => 	Item - {Name: Aged Brie, Quality: 1, SellIn: 5, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,6,1] => 	Item - {Name: Aged Brie, Quality: 2, SellIn: 5, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,6,2] => 	Item - {Name: Aged Brie, Quality: 3, SellIn: 5, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,6,48] => 	Item - {Name: Aged Brie, Quality: 49, SellIn: 5, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,6,49] => 	Item - {Name: Aged Brie, Quality: 50, SellIn: 5, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,6,50] => 	Item - {Name: Aged Brie, Quality: 50, SellIn: 5, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,6,51] => 	Item - {Name: Aged Brie, Quality: 51, SellIn: 5, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,7,0] => 	Item - {Name: Aged Brie, Quality: 1, SellIn: 6, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,7,1] => 	Item - {Name: Aged Brie, Quality: 2, SellIn: 6, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,7,2] => 	Item - {Name: Aged Brie, Quality: 3, SellIn: 6, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,7,48] => 	Item - {Name: Aged Brie, Quality: 49, SellIn: 6, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,7,49] => 	Item - {Name: Aged Brie, Quality: 50, SellIn: 6, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,7,50] => 	Item - {Name: Aged Brie, Quality: 50, SellIn: 6, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,7,51] => 	Item - {Name: Aged Brie, Quality: 51, SellIn: 6, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,8,0] => 	Item - {Name: Aged Brie, Quality: 1, SellIn: 7, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,8,1] => 	Item - {Name: Aged Brie, Quality: 2, SellIn: 7, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,8,2] => 	Item - {Name: Aged Brie, Quality: 3, SellIn: 7, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,8,48] => 	Item - {Name: Aged Brie, Quality: 49, SellIn: 7, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,8,49] => 	Item - {Name: Aged Brie, Quality: 50, SellIn: 7, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,8,50] => 	Item - {Name: Aged Brie, Quality: 50, SellIn: 7, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,8,51] => 	Item - {Name: Aged Brie, Quality: 51, SellIn: 7, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,9,0] => 	Item - {Name: Aged Brie, Quality: 1, SellIn: 8, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,9,1] => 	Item - {Name: Aged Brie, Quality: 2, SellIn: 8, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,9,2] => 	Item - {Name: Aged Brie, Quality: 3, SellIn: 8, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,9,48] => 	Item - {Name: Aged Brie, Quality: 49, SellIn: 8, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,9,49] => 	Item - {Name: Aged Brie, Quality: 50, SellIn: 8, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,9,50] => 	Item - {Name: Aged Brie, Quality: 50, SellIn: 8, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,9,51] => 	Item - {Name: Aged Brie, Quality: 51, SellIn: 8, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,10,0] => 	Item - {Name: Aged Brie, Quality: 1, SellIn: 9, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,10,1] => 	Item - {Name: Aged Brie, Quality: 2, SellIn: 9, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,10,2] => 	Item - {Name: Aged Brie, Quality: 3, SellIn: 9, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,10,48] => 	Item - {Name: Aged Brie, Quality: 49, SellIn: 9, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,10,49] => 	Item - {Name: Aged Brie, Quality: 50, SellIn: 9, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,10,50] => 	Item - {Name: Aged Brie, Quality: 50, SellIn: 9, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,10,51] => 	Item - {Name: Aged Brie, Quality: 51, SellIn: 9, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,11,0] => 	Item - {Name: Aged Brie, Quality: 1, SellIn: 10, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,11,1] => 	Item - {Name: Aged Brie, Quality: 2, SellIn: 10, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,11,2] => 	Item - {Name: Aged Brie, Quality: 3, SellIn: 10, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,11,48] => 	Item - {Name: Aged Brie, Quality: 49, SellIn: 10, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,11,49] => 	Item - {Name: Aged Brie, Quality: 50, SellIn: 10, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,11,50] => 	Item - {Name: Aged Brie, Quality: 50, SellIn: 10, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,11,51] => 	Item - {Name: Aged Brie, Quality: 51, SellIn: 10, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,12,0] => 	Item - {Name: Aged Brie, Quality: 1, SellIn: 11, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,12,1] => 	Item - {Name: Aged Brie, Quality: 2, SellIn: 11, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,12,2] => 	Item - {Name: Aged Brie, Quality: 3, SellIn: 11, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,12,48] => 	Item - {Name: Aged Brie, Quality: 49, SellIn: 11, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,12,49] => 	Item - {Name: Aged Brie, Quality: 50, SellIn: 11, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,12,50] => 	Item - {Name: Aged Brie, Quality: 50, SellIn: 11, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Aged Brie,12,51] => 	Item - {Name: Aged Brie, Quality: 51, SellIn: 11, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,-1,0] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 0, SellIn: -2, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,-1,1] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 0, SellIn: -2, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,-1,2] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 0, SellIn: -2, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,-1,48] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 0, SellIn: -2, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,-1,49] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 0, SellIn: -2, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,-1,50] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 0, SellIn: -2, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,-1,51] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 0, SellIn: -2, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,0,0] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 0, SellIn: -1, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,0,1] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 0, SellIn: -1, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,0,2] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 0, SellIn: -1, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,0,48] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 0, SellIn: -1, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,0,49] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 0, SellIn: -1, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,0,50] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 0, SellIn: -1, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,0,51] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 0, SellIn: -1, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,1,0] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 3, SellIn: 0, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,1,1] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 4, SellIn: 0, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,1,2] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 5, SellIn: 0, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,1,48] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 50, SellIn: 0, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,1,49] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 50, SellIn: 0, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,1,50] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 50, SellIn: 0, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,1,51] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 51, SellIn: 0, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,2,0] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 3, SellIn: 1, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,2,1] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 4, SellIn: 1, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,2,2] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 5, SellIn: 1, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,2,48] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 50, SellIn: 1, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,2,49] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 50, SellIn: 1, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,2,50] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 50, SellIn: 1, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,2,51] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 51, SellIn: 1, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,3,0] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 3, SellIn: 2, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,3,1] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 4, SellIn: 2, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,3,2] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 5, SellIn: 2, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,3,48] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 50, SellIn: 2, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,3,49] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 50, SellIn: 2, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,3,50] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 50, SellIn: 2, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,3,51] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 51, SellIn: 2, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,4,0] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 3, SellIn: 3, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,4,1] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 4, SellIn: 3, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,4,2] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 5, SellIn: 3, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,4,48] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 50, SellIn: 3, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,4,49] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 50, SellIn: 3, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,4,50] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 50, SellIn: 3, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,4,51] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 51, SellIn: 3, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,5,0] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 3, SellIn: 4, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,5,1] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 4, SellIn: 4, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,5,2] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 5, SellIn: 4, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,5,48] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 50, SellIn: 4, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,5,49] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 50, SellIn: 4, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,5,50] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 50, SellIn: 4, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,5,51] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 51, SellIn: 4, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,6,0] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 2, SellIn: 5, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,6,1] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 3, SellIn: 5, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,6,2] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 4, SellIn: 5, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,6,48] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 50, SellIn: 5, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,6,49] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 50, SellIn: 5, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,6,50] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 50, SellIn: 5, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,6,51] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 51, SellIn: 5, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,7,0] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 2, SellIn: 6, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,7,1] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 3, SellIn: 6, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,7,2] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 4, SellIn: 6, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,7,48] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 50, SellIn: 6, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,7,49] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 50, SellIn: 6, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,7,50] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 50, SellIn: 6, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,7,51] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 51, SellIn: 6, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,8,0] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 2, SellIn: 7, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,8,1] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 3, SellIn: 7, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,8,2] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 4, SellIn: 7, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,8,48] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 50, SellIn: 7, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,8,49] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 50, SellIn: 7, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,8,50] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 50, SellIn: 7, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,8,51] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 51, SellIn: 7, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,9,0] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 2, SellIn: 8, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,9,1] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 3, SellIn: 8, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,9,2] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 4, SellIn: 8, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,9,48] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 50, SellIn: 8, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,9,49] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 50, SellIn: 8, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,9,50] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 50, SellIn: 8, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,9,51] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 51, SellIn: 8, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,10,0] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 2, SellIn: 9, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,10,1] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 3, SellIn: 9, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,10,2] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 4, SellIn: 9, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,10,48] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 50, SellIn: 9, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,10,49] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 50, SellIn: 9, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,10,50] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 50, SellIn: 9, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,10,51] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 51, SellIn: 9, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,11,0] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 1, SellIn: 10, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,11,1] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 2, SellIn: 10, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,11,2] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 3, SellIn: 10, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,11,48] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 49, SellIn: 10, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,11,49] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 50, SellIn: 10, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,11,50] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 50, SellIn: 10, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,11,51] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 51, SellIn: 10, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,12,0] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 1, SellIn: 11, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,12,1] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 2, SellIn: 11, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,12,2] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 3, SellIn: 11, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,12,48] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 49, SellIn: 11, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,12,49] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 50, SellIn: 11, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,12,50] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 50, SellIn: 11, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Backstage passes to a TAFKAL80ETC concert,12,51] => 	Item - {Name: Backstage passes to a TAFKAL80ETC concert, Quality: 51, SellIn: 11, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,-1,0] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 0, SellIn: -1, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,-1,1] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 1, SellIn: -1, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,-1,2] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 2, SellIn: -1, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,-1,48] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 48, SellIn: -1, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,-1,49] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 49, SellIn: -1, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,-1,50] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 50, SellIn: -1, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,-1,51] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 51, SellIn: -1, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,0,0] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 0, SellIn: 0, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,0,1] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 1, SellIn: 0, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,0,2] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 2, SellIn: 0, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,0,48] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 48, SellIn: 0, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,0,49] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 49, SellIn: 0, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,0,50] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 50, SellIn: 0, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,0,51] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 51, SellIn: 0, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,1,0] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 0, SellIn: 1, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,1,1] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 1, SellIn: 1, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,1,2] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 2, SellIn: 1, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,1,48] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 48, SellIn: 1, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,1,49] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 49, SellIn: 1, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,1,50] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 50, SellIn: 1, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,1,51] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 51, SellIn: 1, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,2,0] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 0, SellIn: 2, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,2,1] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 1, SellIn: 2, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,2,2] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 2, SellIn: 2, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,2,48] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 48, SellIn: 2, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,2,49] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 49, SellIn: 2, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,2,50] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 50, SellIn: 2, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,2,51] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 51, SellIn: 2, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,3,0] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 0, SellIn: 3, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,3,1] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 1, SellIn: 3, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,3,2] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 2, SellIn: 3, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,3,48] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 48, SellIn: 3, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,3,49] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 49, SellIn: 3, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,3,50] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 50, SellIn: 3, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,3,51] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 51, SellIn: 3, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,4,0] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 0, SellIn: 4, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,4,1] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 1, SellIn: 4, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,4,2] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 2, SellIn: 4, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,4,48] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 48, SellIn: 4, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,4,49] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 49, SellIn: 4, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,4,50] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 50, SellIn: 4, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,4,51] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 51, SellIn: 4, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,5,0] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 0, SellIn: 5, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,5,1] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 1, SellIn: 5, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,5,2] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 2, SellIn: 5, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,5,48] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 48, SellIn: 5, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,5,49] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 49, SellIn: 5, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,5,50] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 50, SellIn: 5, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,5,51] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 51, SellIn: 5, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,6,0] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 0, SellIn: 6, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,6,1] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 1, SellIn: 6, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,6,2] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 2, SellIn: 6, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,6,48] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 48, SellIn: 6, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,6,49] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 49, SellIn: 6, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,6,50] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 50, SellIn: 6, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,6,51] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 51, SellIn: 6, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,7,0] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 0, SellIn: 7, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,7,1] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 1, SellIn: 7, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,7,2] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 2, SellIn: 7, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,7,48] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 48, SellIn: 7, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,7,49] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 49, SellIn: 7, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,7,50] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 50, SellIn: 7, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,7,51] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 51, SellIn: 7, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,8,0] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 0, SellIn: 8, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,8,1] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 1, SellIn: 8, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,8,2] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 2, SellIn: 8, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,8,48] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 48, SellIn: 8, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,8,49] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 49, SellIn: 8, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,8,50] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 50, SellIn: 8, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,8,51] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 51, SellIn: 8, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,9,0] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 0, SellIn: 9, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,9,1] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 1, SellIn: 9, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,9,2] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 2, SellIn: 9, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,9,48] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 48, SellIn: 9, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,9,49] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 49, SellIn: 9, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,9,50] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 50, SellIn: 9, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,9,51] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 51, SellIn: 9, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,10,0] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 0, SellIn: 10, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,10,1] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 1, SellIn: 10, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,10,2] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 2, SellIn: 10, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,10,48] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 48, SellIn: 10, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,10,49] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 49, SellIn: 10, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,10,50] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 50, SellIn: 10, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,10,51] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 51, SellIn: 10, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,11,0] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 0, SellIn: 11, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,11,1] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 1, SellIn: 11, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,11,2] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 2, SellIn: 11, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,11,48] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 48, SellIn: 11, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,11,49] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 49, SellIn: 11, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,11,50] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 50, SellIn: 11, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,11,51] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 51, SellIn: 11, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,12,0] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 0, SellIn: 12, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,12,1] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 1, SellIn: 12, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,12,2] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 2, SellIn: 12, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,12,48] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 48, SellIn: 12, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,12,49] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 49, SellIn: 12, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,12,50] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 50, SellIn: 12, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
+[Sulfuras, Hand of Ragnaros,12,51] => 	Item - {Name: Sulfuras, Hand of Ragnaros, Quality: 51, SellIn: 12, Type: weapon, Weight: 1, Value: 1, 
+			Character: {Name: fred, Gender: M, Level: 1, SkillClass: warrior, Race: elf},
+			Realm: {Name: Atlantis}
+	}
