@@ -33,7 +33,7 @@ namespace VideoStore
                     case Movie.REGULAR:
                         thisAmount += 2;
                         if (each.DaysRented > 2)
-                            thisAmount += (each.DaysRented- 2) * 1.5;
+                            thisAmount += (each.DaysRented - 2) * 1.5;
                         break;
                     case Movie.NEW_RELEASE:
                         thisAmount += each.DaysRented * 3;

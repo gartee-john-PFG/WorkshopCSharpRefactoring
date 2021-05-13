@@ -9,7 +9,7 @@
         "log-file":false,
         "timeout-ms": 10000,
         "project-file": "VideoStore.csproj",
-        "max-concurrent-test-runners": 8,
+        "max-concurrent-test-runners": 6,
         "threshold-high": 80,
         "threshold-low": 70,
         "threshold-break": 60,
@@ -18,8 +18,7 @@
             "Customer.cs"
         ],
         "excluded-mutations": [
-            "string",
-            "Logical operators"
+            "string"
         ],
         "ignore-methods": [
             "*Log*",
